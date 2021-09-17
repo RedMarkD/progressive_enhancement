@@ -36,7 +36,6 @@ tr:nth-child(odd) {
 table{
     margin: auto;
     table: auto;
-
 }
 q.farmerq {
     font-style: italic;
@@ -52,4 +51,8 @@ q.peopleq{
 
 #first\ section{
     font-weight: bold;
+}
+img {
+    float: right;
+    margin: 10px;
 }
