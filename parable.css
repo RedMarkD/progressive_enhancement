@@ -1,0 +1,13 @@
+.good { class= "good";
+}
+.bad { class= "bad";
+    }
+p{
+    font-size: 12px;
+    font-family: Arial, serif;
+    color: navy;
+    line-height: 25px;
+}
+a:link { color:navy}
+a:visited { color darkmagenta}
+a:hover { color: blue}
