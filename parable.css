@@ -1,8 +1,10 @@
 .good {
     color:green;
+    text-transform: Capitalize
 }
 .bad {
     color:red;
+    text-transform: capitalize;
 
     }
 p{
@@ -18,7 +20,7 @@ a:hover { color: blue}
 body{
     max-width: 90%;
     text-align: center;
-    background-image: url("https://www.pngall.com/wp-content/uploads/5/Farm-Wheat-Field-PNG-Download-Image.png");
+    background-image: url("https://www.chinafile.com/sites/default/files/styles/large/public/p1020648_0.jpg?itok=snNsMxyn");
     background-repeat: no-repeat;
     background-color:#DED0A7;
     background-position: bottom right;
@@ -47,10 +49,7 @@ q.peopleq{
 #editor {
     background-color: yellow;
 }
-body.good {
-    font-style: caps;
 
-}
 #first\ section{
     font-weight: bold;
 }
