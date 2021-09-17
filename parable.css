@@ -1,6 +1,6 @@
-.good { class= "good";
+.good {"good";
 }
-.bad { class= "bad";
+.bad { "bad";
     }
 p{
     font-size: 12px;
@@ -9,5 +9,16 @@ p{
     line-height: 25px;
 }
 a:link { color:navy}
-a:visited { color darkmagenta}
+a:visited { color: darkmagenta}
 a:hover { color: blue}
+
+body {
+    width: 90%;
+    text-align: center;
+    background-image: url("https://st2.depositphotos.com/1016682/10802/i/950/depositphotos_108022386-stock-photo-rice-drying-in-the-sun.jpg");
+    background-repeat: no-repeat;
+    background-color:#DED0A7;
+}
+table{
+    margin: auto;
+}
